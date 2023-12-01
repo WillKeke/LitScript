@@ -1,8 +1,8 @@
 # LitScript Programming Language Definition
 
-LitScript is a programming language designed for ease of learning and use, drawing inspiration from Java.
+LitScript is a programming language that brings the vibe of Gen Z and Hip Hop slang into the world of coding.
 
-## File Structure
+## Lit Structure
 
 In LitScript, a program is typically organized into a single class within a single file. This class can host a variety of methods and variables.
 
@@ -14,47 +14,46 @@ Every LitScript program must include a special method named "main()." This is th
 
 LitScript supports several types of statements and actions:
 
-- **Assignment Statements**: For altering the value of variables.
-- **Conditional Statements**: Such as "if" statements, which allow decision-making based on conditions.
-- **Loop Statements**: Like "while" loops, for executing code repeatedly under certain conditions.
-- **Void Methods**: Special methods that perform actions but do not return any results.
+- **Assignment Statements**: For flexing your variable manipulation skills.
+- **Conditional Statements**: Like "if" statements, allowing you to make lit decisions based on conditions.
+- **Spin Statements**: Such as "while" loops, perfect for doing things repeatedly under certain lit conditions.
+- **Nada Methods**: Special methods that make moves but don't spit any results.
 
 ## Calculations
 
 LitScript enables various calculations and logical operations:
 
-- **Mathematical Calculations**: Including addition, subtraction, multiplication, and division.
-- **Comparisons**: To determine if values are equal, greater, or smaller.
-- **Logical Operations**: Utilizing Boolean logic with "AND" and "OR" operators.
-- **Function Calls**: That return results for further use in the program.
+- **Mathematical Calculations**: Including addition, subtraction, multiplication, and division – you know, the math vibes.
+- **Comparisons**: To determine if values are equal, greater, or smaller – keeping it real.
+- **Logical Operations**: Utilizing Boolean logic with "AND" and "OR" operators – for some lit logical thinking.
+- **Function Calls**: That spit results for further use in the program – making those calls!
 
 ## Data Types
 
 LitScript includes a range of data types:
 
-- **boolean**: For true or false values.
-- **char**: To represent individual characters, such as letters or symbols.
-- **int**: For numerical values, with a size of up to 64 bits.
-- **long**: For even larger numerical values, also up to 64 bits.
+- **Cap/NoCap**: For keeping it real with true or false values.
+- **Num**: uhhh this is a number
+- **Dub**: uhhh this is also a number, but with a . thingy on it (100.00)
 
 ## Data Structures
 
 LitScript simplifies data handling with:
 
-- **Arrays**: A basic structure for storing and managing collections of data.
+- **Arrays**: A basic structure for storing and managing collections of data – keep your data lit and organized.
 
-## Built-in Tools (Classes)
+## Built-in Tools (Classes/Blueprints)
 
 LitScript provides several built-in classes for common operations:
 
-- **String**: For manipulating text, including operations like concatenation, length checking, and more.
-- **InputStream**: Used for reading inputs, such as user keyboard input.
-- **PrintStream**: For displaying outputs on the screen.
+- **Verse**: For manipulating text, including operations like concatenation, length checking, and more – text magic.
+- **InputStream**: Used for reading inputs, such as user keyboard input – keep the conversation flowing.
+- **Yell**: For displaying outputs on the screen – let it be seen.
 
 ## Additional Features for Future Development
 
-- **Custom Classes**: Enabling more complex and user-defined data structures and behaviors.
+- **Custom Blueprints**: Enabling more complex and user-defined data structures and behaviors – bring your own vibes to the lit party.
 
 ## Purpose of LitScript
 
-LitScript is crafted to facilitate the learning of programming fundamentals and to provide a platform for practicing basic coding skills in a straightforward and intuitive environment.
+LitScript is crafted to facilitate the learning of programming fundamentals with a sprinkle of Gen Z and Hip Hop slang. It provides a platform for practicing basic coding skills in Litty  environment. Stay lit and code on!
